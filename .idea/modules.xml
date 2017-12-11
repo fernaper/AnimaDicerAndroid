@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AnimaDicer.iml" filepath="$PROJECT_DIR$/AnimaDicer.iml" />
+      <module fileurl="file://C:\Users\jugom\StudioProjects\AnimaDicerAndroid\AnimaDicer.iml" filepath="C:\Users\jugom\StudioProjects\AnimaDicerAndroid\AnimaDicer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/AnimaDicerAndroid.iml" filepath="$PROJECT_DIR$/.idea/AnimaDicerAndroid.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\jugom\StudioProjects\AnimaDicerAndroid\app\app.iml" filepath="C:\Users\jugom\StudioProjects\AnimaDicerAndroid\app\app.iml" />
     </modules>
   </component>
 </project>
